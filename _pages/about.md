@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rui Gong MMath Uwaterloo"
+title: "About me - Rui Gong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
