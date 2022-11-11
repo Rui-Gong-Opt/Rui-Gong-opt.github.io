@@ -13,4 +13,4 @@ My research interests lie in the areas of mathematical programming and optimizat
 
 Before becoming a master student, I graduated from Uwaterloo with a BMath in Mathematical Optimization, Statistics and Mathematical Finance.
 
-Here is my [CV](https://github.com/Rui-Gong-Opt/Rui-Gong-opt.github.io/tree/master/files/cv.pdf)
+Here is my [CV](https://Rui-Gong-opt.github.io/files/cv.pdf)
